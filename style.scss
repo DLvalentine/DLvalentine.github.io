@@ -276,12 +276,12 @@ nav {
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
+  position: fixed;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
-  position: fixed;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
