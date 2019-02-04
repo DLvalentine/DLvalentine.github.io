@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+### The Story So Far...
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+*crickets*
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[~transmit your thoughts to me over the wire~](mailto:davidlewisvalentine@gmail.com)
