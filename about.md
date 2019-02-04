@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
+title: The Story So Far...
 permalink: /about/
 published: true
 ---
-### The Story So Far...
-
 *crickets*
 
 I'm working on it.
