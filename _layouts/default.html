@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-{% assign nickname = site.data.nicknames.names | sample %} <!-- This works, but I think it could be better. JS? -- >
+{% assign nickname = site.data.nicknames.names | sample %}
 {% assign name = site.name | replace: "*", nickname %}
 
 <html>
@@ -14,6 +14,7 @@
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css?{{site.time | date: '%s%N'}}" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+    <script src="/util.js"></script>    
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
@@ -50,17 +51,8 @@
     </div>
 
     {% include analytics.html %}
-
     <script>
-      // Remove the outer scroll window... because ew. Who decided that looked good?
-      // TODO: move this to a function, move it to _includes
-      // TODO: Add func to make the random name generator beter? (side effect: speed?)
-      const highlightedPreElements = document.getElementsByTagName('pre');
-    
-      if(highlightedPreElements.length > 0) {
-        Object.values(highlightedPreElements).forEach(item => item.classList.remove('highlight'));
-      }
+      cleanPreTags();
     </script>
-
   </body>
 </html>

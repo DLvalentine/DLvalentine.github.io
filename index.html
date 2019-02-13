@@ -16,6 +16,15 @@ layout: default
         {{ post.excerpt }}
       </div>
      
+      <div id="{{post.title}}" class="minutesToRead"></div>
+      <script>
+        const id = "{{post.title}}";
+        // Attempt to use var for accurate count, otherwise attempt to figure it out based on content length split on spaces.
+        const wordCount = parseInt("{{post.words}}", 10) || parseInt("{{post.content | split: ' ' | size}}", 10);
+        // don't use image adjustment if var not provided
+        const imageCount = parseInt("{{post.images}}", 10) || 0;
+        estimatedReadTime(id, wordCount, imageCount);
+      </script>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}

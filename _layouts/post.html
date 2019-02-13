@@ -6,8 +6,17 @@ layout: default
   <div class="date">
       {{ page.date | date: "%d %b %Y" }}
   </div>
-
+  
   <h1 class="no-margin">{{ page.title }}</h1>
+  <div id="{{page.title}}" class="mtr-raised"></div>
+  <script>
+    const id = "{{page.title}}";
+    // Attempt to use var for accurate count, otherwise attempt to figure it out based on content length split on spaces.
+    const wordCount = parseInt("{{page.words}}", 10) || parseInt("{{page.content | split: ' ' | size}}", 10);
+    // don't use image adjustment if var not provided
+    const imageCount = parseInt("{{page.images}}", 10) || 0;
+    estimatedReadTime(id, wordCount, imageCount);
+  </script>
 
   <div class="entry">
     {{ content }}
