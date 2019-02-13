@@ -26,7 +26,7 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 780px;
+  max-width: 800px;
   padding: 0 10px;
   width: 100%;
 }
@@ -288,7 +288,7 @@ footer {
 }
 
 /**
- OVERRIDES & UTILITY CLASSES
+ OVERRIDES, UTILITY CLASSES, AND THINGS I HAVE ADDED
 **/
 
 .no-margin {
@@ -317,6 +317,10 @@ footer {
 .mtr-raised {
   @extend .minutesToRead;
   margin-top: -10px;
+}
+
+.end {
+  font-family: Times, serif;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

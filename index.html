@@ -3,6 +3,10 @@ layout: default
 ---
 
 <div class="posts">
+  <script>
+    // because static sites.
+    let id, wordCount, imageCount;
+  </script>
   {% for post in site.posts %}
     <article class="post">
 
@@ -18,11 +22,11 @@ layout: default
      
       <div id="{{post.title}}" class="minutesToRead"></div>
       <script>
-        const id = "{{post.title}}";
+        id = "{{post.title}}";
         // Attempt to use var for accurate count, otherwise attempt to figure it out based on content length split on spaces.
-        const wordCount = parseInt("{{post.words}}", 10) || parseInt("{{post.content | split: ' ' | size}}", 10);
+        wordCount = parseInt("{{post.words}}", 10) || parseInt("{{post.content | split: ' ' | size}}", 10);
         // don't use image adjustment if var not provided
-        const imageCount = parseInt("{{post.images}}", 10) || 0;
+        imageCount = parseInt("{{post.images}}", 10) || 0;
         estimatedReadTime(id, wordCount, imageCount);
       </script>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
