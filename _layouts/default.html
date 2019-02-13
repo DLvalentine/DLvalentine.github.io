@@ -1,7 +1,10 @@
 <!DOCTYPE html>
+{% assign nickname = site.data.nicknames.names | sample %} <!-- This works, but I think it could be better. JS? -- >
+{% assign name = site.name | replace: "*", nickname %}
+
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{% if page.status %}{{ page.status }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{% if page.status %}{{ page.status }} – {% endif %}{{ name }} – {{ site.description }}</title>
 
     {% include meta.html %}
 
@@ -22,7 +25,7 @@
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ name }}</a></h1>
             <p class="site-description">{{ site.description }}</p>
           </div>
 
@@ -47,5 +50,15 @@
     </div>
 
     {% include analytics.html %}
+
+    <script>
+      // Remove the outer scroll window... because ew. Who decided that looked good?
+      const highlightedPreElements = document.getElementsByTagName('pre');
+    
+      if(highlightedPreElements.length > 0) {
+        Object.values(highlightedPreElements).forEach(item => item.classList.remove('highlight'));
+      }
+    </script>
+
   </body>
 </html>
