@@ -319,6 +319,10 @@ footer {
   margin-top: -10px;
 }
 
+.mtr-large {
+  @extend .date;
+}
+
 .end {
   font-family: Times, serif;
 }
