@@ -9,7 +9,7 @@ published: true
 
 My name is David. It is known. 
 
-   Back in the funky disco future of 2018, I used this site to host a neat little portfolio that housed a kind of digital résumé: A list of skills, a link to a PDF copy of my "boring paper" résumé, and links/contact information -- all packaged in a neat homage to Final Fantasy 7. It was a way for me to play around with new (to me) technology while being a resource for professional inquiries. But, over time, I felt like it was really only useful in small bursts. I have all of this space, the internet is my canvas after-all, surely I could be doing something better with it! So, I decided to pick up something I used to enjoy in school as a hobby: writing.
+   Back in the funky disco future of 2018, I used this site to host a neat little portfolio that housed a kind of digital résumé: A list of skills, a link to a PDF copy of my "boring paper" résumé, and links/contact information all packaged in a neat homage to Final Fantasy VII. It was a way for me to play around with new (to me) technology while being a resource for professional inquiries. But, over time, I felt like it was really only useful in small bursts. I have all of this space, the internet is my canvas after-all, surely I could be doing something better with it! So, I decided to pick up something I used to enjoy in school as a hobby: writing.
     
    I tend to be a little long winded with speaking. So I am hoping that by practicing writing by scribbling down what I think about, want to talk about, or have imagined (in the form of stories or poems), that I can learn the art of brevity along the way. If any of you read it (or better, like it) then that is just an added bonus.
 
