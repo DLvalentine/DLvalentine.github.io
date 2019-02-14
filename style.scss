@@ -21,7 +21,6 @@ body {
   background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-  margin-bottom: 100px;
 }
 
 .container {
@@ -275,16 +274,25 @@ nav {
 
 .wrapper-footer {
   margin-top: 25px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
   background-color: $lightGray;
   position: absolute;
   width: 100%;
+
+  @include mobile {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  float: left;
+  display: none;
+
+  @include mobile {
+    display: block;
+  }
 }
 
 /**
@@ -323,8 +331,67 @@ footer {
   @extend .date;
 }
 
+.side-nav {
+  padding-top: 5px;
+  width: 6%;
+  margin-right: 0;
+  margin-top: 0;
+  position: fixed;
+  text-align: center;
+  height: 100%;
+
+  @include mobile {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 915px) {
+  .side-nav {
+    display: none;
+  }
+
+  footer {
+    display: block;
+    float: none;
+  }
+
+  .svg-div {
+    display: none;
+  }
+
+  .wrapper-footer {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+}
+
+
+/**
+    Editing tools (kramdown)
+**/
+
 .end {
   font-family: Times, serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.st {
+  text-decoration: line-through;
+  font-style: normal;
+}
+
+.sup {
+  font-style: normal;
+  vertical-align: super;
+  font-size: 10pt;
+}
+
+.red {
+  font-style: normal;
+  color: red;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
