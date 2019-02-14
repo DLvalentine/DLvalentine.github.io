@@ -394,6 +394,17 @@ footer {
   color: red;
 }
 
+.hg {
+  background-color: rgba(222, 250, 211, 1);
+  font-style: normal;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.it {
+  font-style: italic;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
