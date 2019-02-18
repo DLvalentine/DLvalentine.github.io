@@ -1,6 +1,6 @@
 ---
-published: true
-excerpt: Exciting
+published: false
+excerpt: .. to own on DVD & Video!
 ---
 ## Howdy:
 
