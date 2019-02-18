@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 excerpt: .. to own on DVD & Video!
+images: 0
 ---
 ## Howdy:
 
