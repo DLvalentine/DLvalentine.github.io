@@ -20,7 +20,11 @@ Some of the things I enjoy, and that you'll find written about herein:
 * Manga & Anime
 * Video Games
 * Programming & Computer Science
+* Tabletop RPGs, like D&D (5e) and Pathfinder (1e)
 
 And maybe some other stuff. 
 
 Links to contact me, and all that social media whosit-whatsit, live in bubbles found on the left side of your screen, or at the bottom for all my mobile folks. Failing that, you can [communicate your deep inner thoughts and wishes to me over the wire, here.](mailto:davidlewisvalentine@gmail.com)
+
+\- D.
+{:.end}
