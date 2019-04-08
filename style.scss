@@ -4,7 +4,6 @@
 //
 // IMPORTS
 //
-
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -374,6 +373,22 @@ footer {
   font-family: Times, serif;
 }
 
+.dc:first-letter {
+  font-family: Times, serif;
+  float: left;
+  font-weight: bold;
+  font-size: 75px;
+  line-height: 60px;
+  margin-top: 0px;
+  padding-right: 8px;
+  padding-left: 3px;
+}
+
+.dcq:first-letter{
+  @extend .dc;
+  initial-letter: 2;
+}
+
 .center {
   text-align: center;
 }
@@ -407,6 +422,11 @@ footer {
 
 .smallbq {
   font-size: 12pt !important;
+  padding: 0 1em !important;
+}
+
+.medbq {
+  font-size: 14pt !important;
   padding: 0 1em !important;
 }
 

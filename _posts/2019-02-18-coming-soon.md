@@ -1,5 +1,7 @@
 ---
+layout: post
 published: true
+title: 'Coming Soon!'
 excerpt: ... to own on DVD & Video!
 images: 0
 ---
