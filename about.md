@@ -4,7 +4,7 @@ title: The Story So Far...
 permalink: /about/
 published: true
 ---
-## Howdy: 
+## Howdy 
 
 I'm David! 
 
