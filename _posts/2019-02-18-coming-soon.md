@@ -1,13 +1,13 @@
 ---
 layout: post
 published: true
-title: 'Coming Soon!'
+title: Coming Soon!
 excerpt: ... to own on DVD & Video!
 images: 0
 ---
 ## Howdy
 
-I'm developing some stuff to live here. Stay tuned!
+I'm not quite certain what I want to do with this space yet -- stay tuned!
 
 \- D.
 {:.end}
