@@ -1,0 +1,2 @@
+- Rework the front-end to be prettier
+- Come up with some kind of personal API
