@@ -29,6 +29,11 @@ body {
   width: 100%;
 }
 
+.top-container {
+  min-height: 100vh;
+  position: relative;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -276,7 +281,6 @@ nav {
   background-color: $lightGray;
   width: 100%;
   position: absolute;
-  bottom: 0;
 
   @include mobile {
     border-top: 1px solid #ddd;
@@ -358,6 +362,7 @@ footer {
   .wrapper-footer {
     border-top: 1px solid #ddd;
     border-bottom: 1px solid #ddd;
+    bottom: -10vh;
   }
 }
 
