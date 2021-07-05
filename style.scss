@@ -274,8 +274,9 @@ nav {
 .wrapper-footer {
   margin-top: 25px;
   background-color: $lightGray;
-  position: absolute;
   width: 100%;
+  position: absolute;
+  bottom: 0;
 
   @include mobile {
     border-top: 1px solid #ddd;
@@ -288,10 +289,6 @@ footer {
   text-align: center;
   float: left;
   display: none;
-
-  @include mobile {
-    display: block;
-  }
 }
 
 /**

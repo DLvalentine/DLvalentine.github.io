@@ -7,7 +7,7 @@ images: 0
 ---
 ## Howdy
 
-I'm not quite certain what I want to do with this space yet -- stay tuned!
+I finally figured out what I'm (probably) going to do with this space. I'll post something *soon™*.
 
 \- D.
 {:.end}
