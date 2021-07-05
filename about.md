@@ -13,7 +13,7 @@ So I shifted, thought this could be a place where I could dump thoughts out of m
 
 But I keep coming back, keep trying to think of things to do with this space: a slice of internet few will stumble upon unless I make an active effort to show it off. So... I've been thinking of making this more of a journal. Not necessarily the type where you record your life to have some sort of sense of continuity later on, but one where I can record things that occupy me or interest me. Over the past couple of years since I spun this little site up, I have rediscovered the joy I get out of taking photos. So maybe I'll take one here or there and save it. Just for this journal. Maybe I'll jot down some thoughts to go with it. I also write software, enjoy a variety of entertainment, think, etc. In a way it still satisfies that "dump thoughts out of my brain" feeling I'm looking for, but in a way that (at least on the surface) feels less pointless.
 
-So... well, I dunno, maybe some of the things that kick around in my head that I hesitate from posting on more "visible" platforms end up here. Not because they're wrong/bad or that I'm embarrassed by them, but because this is a space I control, one where I can just be.
+So... well, I dunno, maybe some of the things that kick around in my head that I hesitate from posting on more "visible" platforms end up here. Not because they're wrong/bad or that I'm embarrassed by them, but because this is a space I can control. One I can remove, one where I can just be my genuine self. So there you go.
 
 Socials I care about are on the left (or bottom) nav, check 'em if you want, hit me up if you wanna chit chat.
 
