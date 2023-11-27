@@ -13,6 +13,9 @@ layout: default
         // don't use image adjustment if var not provided
         const imageCount = parseInt("{{page.images}}", 10) || 0;
         estimatedReadTime(id, wordCount, imageCount);
+
+        const exifImageCount = parseInt("{{page.exifImages}}", 10) || 0;
+        window.onload=() => {getExifImageData(exifImageCount)};
       </script>
   </div>
   

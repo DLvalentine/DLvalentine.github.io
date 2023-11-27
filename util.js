@@ -20,3 +20,22 @@ function estimatedReadTime(id = '', numWords = 0, numImages = 0, wpm = 265) {
     const minutes = Math.ceil((numWords / wpm) + numImages).toLocaleString();
     document.getElementById(id).innerText = `${minutes} min read`;
 }
+
+/**
+ * Given a number of images on a page, iterate through and find the element in order to get its exif metadata.
+ * Once we have that, set the photo caption with a formatted string of that metadata
+ * @param {Number} numImages 
+ */
+function getExifImageData(numImages) {
+    for(let i = 0; i < numImages; i++) {
+        const exifImgElement = document.querySelector(`#exif-${i}`);
+        const exifTextElement = document.querySelector(`#exif-${i}-text`);
+
+        // TODO: The below uses example tags on an example image. This will need to be updated once I get metadata format(s) for the cameras I use.
+        EXIF.getData(exifImgElement, () => {
+            const metadata = EXIF.getAllTags(exifImgElement);
+            if(metadata)
+                exifTextElement.innerText = `Example taken on: ${metadata.Make} ${metadata.Model}`;
+        });
+    }
+}

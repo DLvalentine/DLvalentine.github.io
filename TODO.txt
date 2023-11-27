@@ -1,2 +1,3 @@
-- Rework the front-end to be prettier
-- Come up with some kind of personal API
+- Rebrand the front-end
+- Use something like exif-js to grab image metadata, to make my life easier when I share more
+- Add new tags/capability to make sharing pics cooler
