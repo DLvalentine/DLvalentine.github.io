@@ -1,3 +1,3 @@
-- Rebrand the front-end
-- Use something like exif-js to grab image metadata, to make my life easier when I share more
-- Add new tags/capability to make sharing pics cooler
+- Update the front-end style a little. Maybe dark or "sepia tone" mode instead of light.
+- Update exif function(s) to match my metadata
+- Add new tags/styles/etc. to make sharing pics cooler - Google Maps/Earth API + gps metadata?
