@@ -7,7 +7,7 @@ images: 4
 exifImages: 4
 ---
 
-|![Caption](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20BW%20-%20Perched.jpg "Caption"){:height="auto" width="auto" #exif-1}|
+|![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20BW%20-%20Perched.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-1}|
 |------|
 |*_exifdata*{: #exif-1-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
@@ -28,7 +28,7 @@ And when I got there? Well..the levee was closed for an event. 😔 I should hav
 I could have called it quits then - could have gone home and planned out another day to go. But that isn't in the spirit of practice to me. I knew I wasn't going to take Earth-shattering works of beauty - so, let's just go to the second best option: the park, instead! I drove back to a park I live near where lots of birds like to hang out, and got to work.
 &nbsp;
 
-|![Caption](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Breakfast%20Time.jpg "Caption"){:height="auto" width="auto" #exif-0}|
+|![Yellow-rumped Warbler grabbing some breakfast.](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Breakfast%20Time.jpg "Yellow-rumped Warbler grabbing some breakfast."){:height="auto" width="auto" #exif-0}|
 |------|
 |*_exifdata*{: #exif-0-text}|
 |*Yellow-rumped Warbler grabbing some breakfast.*{: #caption}|
@@ -39,7 +39,7 @@ There, I learned all sorts of lessons: Picking a spot and being patient, letting
 I persisted! Even when the location had to change, or I messed up, or the bird was out of focus - I just kept trying.
 &nbsp;
 
-|![Caption](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Perched.jpg "Caption"){:height="auto" width="auto" #exif-2}|
+|![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Perched.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-2}|
 |------|
 |*_exifdata*{: #exif-2-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
@@ -53,7 +53,7 @@ The pictures here are some of the "second best" shots, which I think came out re
 
 Sometimes, "best" is impossible - but the second best can be just as good!
 
-|![Caption](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Looking%20Out.jpg "Caption"){:height="auto" width="auto" #exif-3}|
+|![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Looking%20Out.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-3}|
 |------|
 |*_exifdata*{: #exif-3-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
