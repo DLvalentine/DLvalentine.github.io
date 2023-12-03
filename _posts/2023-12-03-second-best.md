@@ -20,8 +20,10 @@ I was recently gifted (by my beautiful wife Katy!) my first "big boy" camera: A 
 
 I knew they were not going to be Earth-shattering works of beauty - I knew I had my work cut out for me and a *ton* to learn. Up until now, I've only taken pictures on automatic point-and-shoot cameras or my cellphone. But I always ***loved*** that feeling when a picture would come out. I also ***loved*** the "hunt" of watching birds and getting awesome views of them. So, why not combine both?
 
-So, I packed my bags, got up before dawn, and trekked out to a levee off Lake Elsinore. It's a beautiful little spot where I knew a bunch of Mallards and Northern Shovelers liked to hang out - and I even heard there might be an Egret or two to catch!
-The whole drive there I was thinking of which spots to go to and how I'd take my shots. I listened to a video (for the 30th time maybe) explaining the exposure triangle so I could take what I learned and put it to practice.
+So, I packed my bags, got up before dawn, and trekked out to a levee off Lake Elsinore. It's a beautiful little spot where I knew a bunch of [Mallards](https://www.allaboutbirds.org/guide/mallard){:target="_blank"} and [Northern Shovelers](https://www.allaboutbirds.org/guide/Northern_Shoveler/){:target="_blank"} liked to hang out - and I even heard there might be a [Great Egret](https://www.allaboutbirds.org/guide/Great_Egret/){:target="_blank"} to spot!
+
+
+The whole drive there I was thinking of which spots to go to and how I'd take my shots. I listened to a video (for the 30th time maybe) explaining the exposure triangle so I could take what I learned and put it to practice. I was ***so*** excited.
 
 And when I got there? Well..the levee was closed for an event. 😔 I should have probably looked that up before going, huh?
 
@@ -51,7 +53,10 @@ I deleted it, sadly, or I would share it. I think I should share my imperfect sh
 
 The pictures here are some of the "second best" shots, which I think came out really, really good. For my first time shooting with a DSLR (and this particular camera/lens), I am absolutely thrilled with how these came out.
 
+
 Sometimes, "best" is impossible - but the second best can be just as good!
+
+The species in all the pictures here is a [Yellow-rumped Warbler](https://www.allaboutbirds.org/guide/Yellow-rumped_Warbler){:target="_blank"}
 
 |![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Looking%20Out.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-3}|
 |------|
