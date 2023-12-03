@@ -9,7 +9,7 @@ exifImages: 4
 
 |![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20BW%20-%20Perched.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-1}|
 |------|
-|*_exifdata*{: #exif-1-text}|
+|*Loading metadata...*{: #exif-1-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
 {:.exif}
 
@@ -30,7 +30,7 @@ I could have called it quits then - could have gone home and planned out another
 
 |![Yellow-rumped Warbler grabbing some breakfast.](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Breakfast%20Time.jpg "Yellow-rumped Warbler grabbing some breakfast."){:height="auto" width="auto" #exif-0}|
 |------|
-|*_exifdata*{: #exif-0-text}|
+|*Loading metadata...*{: #exif-0-text}|
 |*Yellow-rumped Warbler grabbing some breakfast.*{: #caption}|
 {:.exif}
 
@@ -41,7 +41,7 @@ I persisted! Even when the location had to change, or I messed up, or the bird w
 
 |![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Perched.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-2}|
 |------|
-|*_exifdata*{: #exif-2-text}|
+|*Loading metadata...*{: #exif-2-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
 {:.exif}
 
@@ -55,7 +55,7 @@ Sometimes, "best" is impossible - but the second best can be just as good!
 
 |![Yellow-rumped Warbler, perched](/images/posts/2023-12-03-birds/Yellow%20Rumped%20Warbler%20-%20Looking%20Out.jpg "Yellow-rumped Warbler, perched"){:height="auto" width="auto" #exif-3}|
 |------|
-|*_exifdata*{: #exif-3-text}|
+|*Loading metadata...*{: #exif-3-text}|
 |*Yellow-rumped Warbler, perched*{: #caption}|
 {:.exif}
 
