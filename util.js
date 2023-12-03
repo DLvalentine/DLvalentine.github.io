@@ -31,11 +31,11 @@ function getExifImageData(numImages) {
         const exifImgElement = document.querySelector(`#exif-${i}`);
         const exifTextElement = document.querySelector(`#exif-${i}-text`);
 
-        // TODO: The below uses example tags on an example image. This will need to be updated once I get metadata format(s) for the cameras I use.
         EXIF.getData(exifImgElement, () => {
             const metadata = EXIF.getAllTags(exifImgElement);
+
             if(metadata)
-                exifTextElement.innerText = `Example taken on: ${metadata.Make} ${metadata.Model}`;
+                exifTextElement.innerText = `${metadata.Model} ${metadata.FocalLength}mm @ f/${metadata.FNumber} ${metadata.ExposureTime.numerator}/${metadata.ExposureTime.denominator} sec ISO ${metadata.ISOSpeedRatings}`;
         });
     }
 }
