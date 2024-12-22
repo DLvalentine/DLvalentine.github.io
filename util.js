@@ -35,7 +35,7 @@ function getExifImageData(numImages) {
             const metadata = EXIF.getAllTags(exifImgElement);
 
             if(metadata)
-                exifTextElement.innerText = `${metadata.Model} ${metadata.FocalLength}mm @ f/${metadata.FNumber} ${metadata.ExposureTime.numerator}/${metadata.ExposureTime.denominator} sec ISO ${metadata.ISOSpeedRatings}`;
+                exifTextElement.innerText = `${metadata.Model} ${metadata.FocalLength}mm @ f/${Math.floor(metadata.FNumber)} ${metadata.ExposureTime.numerator}/${metadata.ExposureTime.denominator} sec ISO ${metadata.ISOSpeedRatings}`;
         });
     }
 }
