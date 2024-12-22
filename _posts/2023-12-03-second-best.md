@@ -16,7 +16,7 @@ exifImages: 4
 Today was an exercise in persistence.
 {:.dc}
 
-I was recently gifted (by my beautiful wife Katy!) my first "big boy" camera: A Canon Rebel T7. After a solid week of punching in the tracking number of the order twice daily and (im)patiently waiting for it to arrive (and after eagerly unboxing it), I got my chance to take some pictures.
+I was recently gifted my first "big boy" camera: A Canon Rebel T7. After a solid week of punching in the tracking number of the order twice daily and (im)patiently waiting for it to arrive (and after eagerly unboxing it), I got my chance to take some pictures.
 
 I knew they were not going to be Earth-shattering works of beauty - I knew I had my work cut out for me and a *ton* to learn. Up until now, I've only taken pictures on automatic point-and-shoot cameras or my cellphone. But I always ***loved*** that feeling when a picture would come out. I also ***loved*** the "hunt" of watching birds and getting awesome views of them. So, why not combine both?
 
