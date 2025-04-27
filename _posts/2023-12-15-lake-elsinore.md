@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: 'Lake Elsinore'
-excerpt: ""
+excerpt: "A trip to the lake, and the birds I saw there."
 images: 19
 exifImages: 19
 ---
