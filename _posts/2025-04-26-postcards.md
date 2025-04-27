@@ -154,6 +154,8 @@ a small handful of the postcards I picked up, and I definitely plan to share mor
 
 This was my first stab at writing about these discarded things, and I hope to do it more frequently, and with more varied items. Old ads, family photos, discarded notes or grocery lists. Anything that can be proof that there was someone, somewhere, that did something. For some reason that just fascinates me. I hope someone else enjoys this as much as I did.
 
+And if you're itching for more stuff like this and I haven't posted more, maybe you'll like the [FoundPaper subreddit](https://www.reddit.com/r/FoundPaper/){:target="_blank"}.
+
 Take care,
 
 \- D.
