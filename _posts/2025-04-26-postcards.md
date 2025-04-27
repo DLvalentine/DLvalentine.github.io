@@ -75,7 +75,7 @@ This postcard, dated `6/9` and postmarked `11 Jun 1978` was sent from `Barbara F
 
 - The stamp is a 10-cent stamp, produced in 1977. It was a part of the Americana Series of stamps by the USPS, and features the phrase "People's Right to Petition for Redress" and an image of James Earle Fraser's statue "Contemplation of Justice". According to [The Postal Museum](https://postalmuseum.si.edu/object/npm_1980.2493.6064){:target="_blank"} it promotes the People's right to petition. More information about the statue can be found [here](https://www.supremecourt.gov/about/infosheets/ContemplationOfJustice.html?rwndrnd=0.4481974656227976){:target="_blank"}. Apparently this series was not too popular with the people, despite the subject matter. I wonder what Barbara made of it.
 - I have no idea where this card came from. A reverse image search for it only resulted in a French eBay listing that didn't give me much detail. But it describes the image of the train in Swedish, so I assume the card was from Sweden? It was printed in Spain, however, and features `COPYRIGHT` on the bottom in English.
-- There's tons of shorthand here that you don't see anymore. Because of limited space, you'll things like `f/t` ("For the"), `B.D.` ("birthday"), and `rec'd` ("received"). [Here's another interesting case of old shorthand](https://www.tiktok.com/@etymologynerd/video/7381580639474109727?lang=en){:target="_blank"}.
+- There's tons of shorthand here that you don't see anymore. Because of limited space, you'll see things like `f/t` ("For the"), `B.D.` ("birthday"), and `rec'd` ("received"). [Here's another interesting case of old shorthand](https://www.tiktok.com/@etymologynerd/video/7381580639474109727?lang=en){:target="_blank"}.
 
 The text reads,
 
